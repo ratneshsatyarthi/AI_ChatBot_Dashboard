@@ -1,0 +1,10 @@
+gradio==4.44.0
+langchain-groq==0.2.0
+langchain-core
+langchain-community
+pypdf
+chromadb
+sentence-transformers
+psutil
+datasets
+huggingface-hub
